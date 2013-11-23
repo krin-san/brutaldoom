@@ -12,9 +12,7 @@ http://www.moddb.com/mods/brutal-doom
 http://www.moddb.com/downloads/brutal-doom-version-181
 http://www.moddb.com/mods/brutal-doom/downloads/doom-metal-soundtrack-mod-volume-4
 
-
-![brutaldoom](http://s2.postimg.org/m0wiy32fr/cover2.jpg)
-
+![](http://s2.postimg.org/m0wiy32fr/cover2.jpg)
 
 Install:
 --------
