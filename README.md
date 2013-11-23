@@ -38,8 +38,8 @@ Or for Multiplayer:
 Hashes:
 -------
 
-brutalv018a.zip e6208117fdb70abd2135ba15b7d6fc1e
-doommetalvol4.wad ce4e136fa6309327f17b9c828c69d843
+brutalv018a.zip fc0d6f2a63aeb3f9028221bd9ab77ec5
+doommetalvol4.wad 67975e13059aceb7fa5d93d3d91de99b
 
 Contributing:
 -------------
