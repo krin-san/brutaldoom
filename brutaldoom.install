@@ -1,8 +1,9 @@
 post_install() {
     echo "Run 'zandronum' to initialize: (Click cancel after it fails to open if required)
 
-	$ zandroumium 
+	zandronum 
 
+Ensure all of your existing .wad files use lowercase only, no UpperCase allowed.
 Now copy your existing .wad files to ~/.zandronum/:
 
     $ cp *.wad ~/.zandronum/
