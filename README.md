@@ -1,7 +1,7 @@
 Brutal Doom
 ===========
 
-[http://www.moddb.com/mods/brutal-doom][8]
+[Brutal Doom][8]
 
 Prepare to see the most disturbing, sadistic and morbid manifestation of violence that you ever seen in your life. This is the definitive gameplay enhancement mod for the GZDoom and Zandronum engines.
 
@@ -11,8 +11,9 @@ https://www.youtube.com/watch?v=nzsG2sLc7dk&t=1m31s
 Includes:
 ---------
 
-[brutal-doom-version-181][9]
-[doom-metal-soundtrack-mod-volume-4][10]
+[Version 18a][9]
+
+[Doom Metal Soundtrack Mod Volume 4][10]
 
 Depends:
 --------
