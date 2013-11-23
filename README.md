@@ -9,7 +9,7 @@ https://github.com/idk/brutaldoom
 
 Install:
 --------
-    $ wget https://raw.github.com/idk/brutaldoom/master/PKGBUILD -O /tmp/PKGBUILD && cd /tmp && makepkg -sfi PKGBUILD && cd
+    $ wget https://raw.github.com/idk/brutaldoom/master/PKGBUILD -O /tmp/PKGBUILD && wget https://raw.github.com/idk/brutaldoom/master/brutaldoom.install -O /tmp/brutaldoom.install && cd /tmp && makepkg -sfi PKGBUILD && cd
 
 Depends on: zandronum and doomseeker
 
