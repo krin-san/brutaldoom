@@ -11,7 +11,7 @@ optdepends=()
 makedepends=('git')
 
 source=("http://www.theultimatedoom.com/download/brutalv0${pkgver}a.zip" "http://mooos.org/mooOS-utils/doommetalvol4.tar.gz")
-md5sums=('fc0d6f2a63aeb3f9028221bd9ab77ec5'
+md5sums=(''
 		 '67975e13059aceb7fa5d93d3d91de99b')
 
 _gitroot="git://github.com/idk/brutaldoom.git"
@@ -34,9 +34,6 @@ build() {
 package() {
 	cd ${srcdir}
 	mkdir -p "$pkgdir/usr/share/games/$pkgname"
-	msg2 "Extracting files..."
-	tar xf ${srcdir}/doommetalvol4.tar.gz -C ${srcdir}
-	unzip -q "${srcdir}/brutalv0${pkgver}a.zip" -d ${srcdir}
 
 	msg2 "Installing brutalv0${pkgver}a.pk3 and doommetalvol4.wad..."
 	install -Dm644 "$srcdir/brutalv0${pkgver}a.pk3" "$pkgdir/usr/share/games/$pkgname/brutalv0${pkgver}a.pk3"
@@ -45,5 +42,7 @@ package() {
 	msg2 "Installing configuration files..."
 	cd "$srcdir/$_gitname-build"
 	install -Dm644 "$srcdir/$_gitname-build/zandronum.ini" "$pkgdir/usr/share/games/$pkgname/zandronum.ini"
+	install -Dm644 "$srcdir/$_gitname-build/brutalv018a changelog.txt" "$pkgdir/usr/share/games/$pkgname/brutalv018a_changelog.txt"
+
 	rm -rf "$srcdir/$_gitname-build"
 }
