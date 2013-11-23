@@ -29,7 +29,7 @@ build() {
 		msg "Starting make..."
 		git clone "$_gitroot" "$srcdir/$_gitname-build"
 	fi
-}@spatry require PUN_ROOT.'include/parser.php, rank_image.php'; is incorrect. needs 2 seperate lines
+}
 
 package() {
 	cd ${srcdir}
