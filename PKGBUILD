@@ -10,7 +10,7 @@ depends=('doomseeker' 'zandronum')
 optdepends=()
 makedepends=('git')
 
-source=("http://www.theultimatedoom.com/download/brutalv0${pkgver}a.zip" "http://mooos.org/mooos-utils/doommetalvol4.tar.gz")
+source=("http://www.theultimatedoom.com/download/brutalv0${pkgver}a.zip" "http://mooos.org/mooOS-utils/doommetalvol4.tar.gz")
 md5sums=('e6208117fdb70abd2135ba15b7d6fc1e'
 		 '67975e13059aceb7fa5d93d3d91de99b')
 
