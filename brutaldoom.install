@@ -5,9 +5,15 @@ Copy your existing .wad files to ~/.zandronum/:
 
     $ cp *.wad ~/.zandronum/
 
+Run zandronum to initialize: (Click cancel after opens)
+
+	$ zandroumium 
+
 Copy zandronum.ini to ~/.zandronum/:
 
-    $ cp /usr/share/games/brutaldoom/zandronum.ini ~/.zandronum/zandronum.ini"
+    $ cp /usr/share/games/brutaldoom/zandronum.ini ~/.zandronum/zandronum.ini
+
+Good to go!"
 
 }
 
