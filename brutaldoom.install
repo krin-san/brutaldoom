@@ -1,0 +1,11 @@
+post_install() {
+    echo "Ensure all of your existing .wad files use lowercase only, no UpperCase allowed.
+
+Copy your existing .wad files to ~/.zandronum/:
+
+    $ cp *.wad ~/.zandronum/"
+}
+
+post_upgrade() {
+    post_install
+}
