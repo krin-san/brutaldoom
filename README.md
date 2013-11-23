@@ -5,7 +5,16 @@ Prepare to see the most disturbing, sadistic and morbid manifestation of violenc
 
 https://github.com/idk/brutaldoom
 
-[linuxdistrocommunity][6]
+I have nothing to do with making this mod I only make package for my Arch Linux. :)
+ Is version 18a cause I cannot get 19 to work, soem error about something or other. :P
+
+http://www.moddb.com/mods/brutal-doom
+http://www.moddb.com/downloads/brutal-doom-version-181
+http://www.moddb.com/mods/brutal-doom/downloads/doom-metal-soundtrack-mod-volume-4
+
+
+![alt text](http://s2.postimg.org/m0wiy32fr/cover2.jpg "Brutal Doom 18a")
+
 
 Install:
 --------
@@ -53,6 +62,8 @@ Contributing:
 
 SHARE AND ENJOY!
 ----------------
+
+[linuxdistrocommunity][6]
 
 [6]: http://www.linuxdistrocommunity.com
 [7]: https://github.com/idk/brutaldoom/issues
