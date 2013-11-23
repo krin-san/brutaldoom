@@ -6,6 +6,7 @@ Brutal Doom
 Prepare to see the most disturbing, sadistic and morbid manifestation of violence that you ever seen in your life. This is the definitive gameplay enhancement mod for the GZDoom and Zandronum engines.
 
 ![Brutal Doom](https://raw.github.com/idk/brutaldoom/master/cover.jpg)
+https://www.youtube.com/watch?v=nzsG2sLc7dk&t=1m31s
 
 Includes:
 ---------
