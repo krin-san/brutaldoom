@@ -11,7 +11,7 @@ optdepends=()
 makedepends=('git')
 
 source=("http://www.theultimatedoom.com/download/brutalv0${pkgver}a.zip" "http://mooos.org/mooOS-utils/doommetalvol4.tar.gz")
-md5sums=('e6208117fdb70abd2135ba15b7d6fc1e'
+md5sums=('fc0d6f2a63aeb3f9028221bd9ab77ec5'
 		 '67975e13059aceb7fa5d93d3d91de99b')
 
 _gitroot="git://github.com/idk/brutaldoom.git"
