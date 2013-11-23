@@ -4,6 +4,11 @@ post_install() {
 Copy your existing .wad files to ~/.zandronum/:
 
     $ cp *.wad ~/.zandronum/"
+
+Copy zandronum.ini to ~/.zandronum/:
+
+    $ cp /usr/share/games/brutaldoom/zandronum.ini ~/.zandronum/zandronum.ini
+
 }
 
 post_upgrade() {

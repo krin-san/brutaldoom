@@ -38,6 +38,8 @@ package() {
 	msg2 "Installing brutalv0${pkgver}a.pk3 and doommetalvol4.wad..."
 	install -Dm644 "$srcdir/brutalv0${pkgver}a.pk3" "$pkgdir/usr/share/games/$pkgname/brutalv0${pkgver}a.pk3"
 	install -Dm644 "$srcdir/doommetalvol4.wad" "$pkgdir/usr/share/games/$pkgname/doommetalvol4.wad"
+	ln -s /usr/share/games/$pkgname/doommetalvol4.wad /usr/share/zandronum/doommetalvol4.wad
+	ln -s /usr/share/games/$pkgname/brutalv0${pkgver}a.pk3 /usr/share/zandronum/brutalv0${pkgver}a.pk3 
 	
 	msg2 "Installing configuration files..."
 	cd "$srcdir/$_gitname-build"
