@@ -10,8 +10,8 @@ Prepare to see the most disturbing, sadistic and morbid manifestation of violenc
 Includes:
 ---------
 
-http://www.moddb.com/downloads/brutal-doom-version-181
-http://www.moddb.com/mods/brutal-doom/downloads/doom-metal-soundtrack-mod-volume-4
+[brutal-doom-version-181][9]
+[doom-metal-soundtrack-mod-volume-4][10]
 
 Depends:
 --------
@@ -49,8 +49,9 @@ Or for Multiplayer:
 Hashes:
 -------
 
-brutalv018a.zip fc0d6f2a63aeb3f9028221bd9ab77ec5
-doommetalvol4.wad 67975e13059aceb7fa5d93d3d91de99b
+    brutalv018a.zip fc0d6f2a63aeb3f9028221bd9ab77ec5
+    
+    doommetalvol4.wad 67975e13059aceb7fa5d93d3d91de99b
 
 Contributing:
 -------------
@@ -74,3 +75,5 @@ I have nothing to do with making this mod I only make package for my Arch Linux.
 [6]: http://www.linuxdistrocommunity.com
 [7]: https://github.com/idk/brutaldoom/issues
 [8]: http://www.moddb.com/mods/brutal-doom
+[9]: http://www.moddb.com/downloads/brutal-doom-version-181
+[10]: http://www.moddb.com/mods/brutal-doom/downloads/doom-metal-soundtrack-mod-volume-4
