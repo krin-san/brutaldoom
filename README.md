@@ -33,13 +33,13 @@ Run 'zandronum' to initialize: (Click cancel after it fails to open if required)
     zandronum
 
 Ensure all of your existing .wad files use lowercase only, no UpperCase allowed.
-Now opy your existing .wad files to ~/.zandronum/:
+Now copy your existing .wad files to ~/.zandronum/:
     
     cp *.wad ~/.zandronum/
 
 Now copy zandronum.ini to ~/.zandronum/:
 
-    cp /usr/share/games/brutaldoom/zandronum.ini ~/.zandronum/zandronum.ini"
+    cp /usr/share/games/brutaldoom/zandronum.ini ~/.zandronum/zandronum.ini
 
 Usage:
 ------
