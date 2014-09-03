@@ -25,7 +25,7 @@ Install:
 
 	mkdir -p ~/abs/brutal19
 	cd ~/abs/brutal19
-    wget https://raw.github.com/idk/brutaldoom/master/PKGBUILD && wget https://raw.github.com/idk/brutaldoom/master/brutaldoom.install  && makepkg -sfi PKGBUILD
+    wget https://raw.github.com/idk/brutaldoom/master/PKGBUILD && wget https://raw.github.com/idk/brutaldoom/master/brutaldoom.install && makepkg -sfi
 
 Setup:
 ------

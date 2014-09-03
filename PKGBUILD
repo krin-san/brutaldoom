@@ -37,9 +37,9 @@ package() {
 	msg2 "Installing brutal${pkgver}.pk3 and DoomMetalVol4.wad..."
 	install -Dm644 "$srcdir/brutal${pkgver}.pk3" "$pkgdir/usr/share/games/$pkgname/brutal${pkgver}.pk3"
 	install -Dm644 "$srcdir/DoomMetalVol4.wad" "$pkgdir/usr/share/games/$pkgname/DoomMetalVol4.wad"
-	install -Dm644 "$srcdir/$_gitname-build/brutal19.txt" "$pkgdir/usr/share/games/$pkgname/brutal19.txt"
-	install -Dm644 "$srcdir/$_gitname-build/brutaldoom credits.txt" "$pkgdir/usr/share/games/$pkgname/brutaldoom_credits.txt"
-	install -Dm644 "$srcdir/$_gitname-build/Credits.txt" "$pkgdir/usr/share/games/$pkgname/Credits.txt"
+	install -Dm644 "$srcdir/brutal19.txt" "$pkgdir/usr/share/games/$pkgname/brutal19.txt"
+	install -Dm644 "$srcdir/brutaldoom credits.txt" "$pkgdir/usr/share/games/$pkgname/brutaldoom_credits.txt"
+	install -Dm644 "$srcdir/Credits.txt" "$pkgdir/usr/share/games/$pkgname/Credits.txt"
 
 	msg2 "Installing configuration files..."
 	cd "$srcdir/$_gitname-build"
