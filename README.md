@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=nzsG2sLc7dk&t=1m31s
 Includes:
 ---------
 
-[Version 18a][9]
+[Version 19][9]
 
 [Doom Metal Soundtrack Mod Volume 4][10]
 
@@ -54,6 +54,10 @@ Or for Multiplayer:
 Hashes:
 -------
 
+	brutal19.zip 5b87f3a849fc61561fc971c24c1cc2840fc42e063ef2a946cfd11dc77a3d0cbd310750836f2b1b8be86e1c3211a1b426447ef2917caef3adc8cbef50f6f321b2
+
+	DoomMetalVol4.zip b1180910025e8b8f065c56518fb1556678ef5c6062dc527e1f3e54dfa039e82f8e49bb1997ccf06a07e451576fbe35c321773eb7dbb7f62b1654b59cb9e07f32
+
     brutalv018a.zip fc0d6f2a63aeb3f9028221bd9ab77ec5
     
     doommetalvol4.wad 67975e13059aceb7fa5d93d3d91de99b
@@ -72,7 +76,7 @@ SHARE AND ENJOY!
 ----------------
 
 I have nothing to do with making this mod I only make package for my Arch Linux. :)
- Is version 18a cause I cannot get 19 to work, soem error about something or other. :P
+ Is version 18a cause I cannot get 19 to work, some error about something or other. :P
 
 [linuxdistrocommunity][6]
 
