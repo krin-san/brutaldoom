@@ -23,7 +23,9 @@ Depends:
 Install:
 --------
 
-    wget https://raw.github.com/idk/brutaldoom/master/PKGBUILD -O /tmp/PKGBUILD && wget https://raw.github.com/idk/brutaldoom/master/brutaldoom.install -O /tmp/brutaldoom.install && cd /tmp && makepkg -sfi PKGBUILD && cd
+	mkdir -p ~/abs/brutal19
+	cd ~/abs/brutal19
+    wget https://raw.github.com/idk/brutaldoom/master/PKGBUILD && wget https://raw.github.com/idk/brutaldoom/master/brutaldoom.install  && makepkg -sfi PKGBUILD
 
 Setup:
 ------
