@@ -20,7 +20,7 @@ install=$pkgname.install
 
 build() {
 	#cd "$srcdir"
-	mkdir -p "$pkgdir/usr/share/games/$pkgname"
+	#mkdir -p "$pkgdir/usr/share/games/$pkgname"
 }
 
 package() {
@@ -32,5 +32,5 @@ package() {
 	install -Dm644 "$srcdir/Credits.txt" "$pkgdir/usr/share/games/$pkgname/Credits.txt"
 
 	msg2 "Installing configuration files..."
-	install -Dm644 "$srcdir/zandronum.ini" "$pkgdir/usr/share/games/$pkgname/zandronum.ini"
+	install -Dm644 "$srcdir/$pkgname/zandronum.ini" "$pkgdir/usr/share/games/$pkgname/zandronum.ini"
 }
