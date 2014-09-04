@@ -19,8 +19,7 @@ sha512sums=('c940afc94317937b9b91da071440053d426b82a43d9f756aa2b3c899d7e966da06c
 install=$pkgname.install
 
 build() {
-	#cd "$srcdir"
-	#mkdir -p "$pkgdir/usr/share/games/$pkgname"
+	install -d "$pkgdir/usr/share/games/$pkgname"
 }
 
 package() {
