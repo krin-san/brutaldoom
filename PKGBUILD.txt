@@ -19,7 +19,7 @@ sha512sums=('5b87f3a849fc61561fc971c24c1cc2840fc42e063ef2a946cfd11dc77a3d0cbd310
 install=$pkgname.install
 
 package() {
-    install -d "$pkgdir/usr/share/games/$pkgname"
+	install -d "$pkgdir/usr/share/games/$pkgname"
 	msg2 "Installing brutal${pkgver}.pk3 and DoomMetalVol4.wad..."
 	install -Dm644 "$srcdir/brutal${pkgver}.pk3" "$pkgdir/usr/share/games/$pkgname/brutal${pkgver}.pk3"
 	install -Dm644 "$srcdir/DoomMetalVol4.wad" "$pkgdir/usr/share/games/$pkgname/DoomMetalVol4.wad"
