@@ -28,7 +28,6 @@ package() {
 	install -Dm644 "$srcdir/Credits.txt" "$pkgdir/usr/share/games/$pkgname/Credits.txt"
 
 	msg2 "Installing configuration files..."
-	cd "$srcdir/$_gitname-build"
 	install -Dm644 "$srcdir/$pkgname/zandronum.ini" "$pkgdir/usr/share/games/$pkgname/zandronum.ini"
 
 
